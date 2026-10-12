@@ -1,0 +1,16 @@
+env
+artifacts
+logs
+.pyc
+pyc
+.env
+Phising
+
+"Phising/Lib/" 
+"Phising/Scripts/" 
+"Phising/Include/" 
+"*.dll" 
+"venv/" 
+"env/" 
+__pycache__/ 
+*.pyc 
